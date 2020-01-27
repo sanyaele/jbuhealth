@@ -1,6 +1,7 @@
 <?php
     $to = 'demo@spondonit.com';
     $firstname = $_POST["fname"];
+    //$laststname = $_POST["lname"];
     $email= $_POST["email"];
     $text= $_POST["message"];
     $phone= $_POST["phone"];
