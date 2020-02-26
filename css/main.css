@@ -2923,7 +2923,7 @@ h6 {
 }
 
 .generic-banner {
-  background-color: #df003a;
+  background-color: #cccccc;
   text-align: center;
 }
 
@@ -2986,4 +2986,7 @@ h6 {
 
 .switch-wrap p {
   margin: 0;
+}
+.biz {
+	font-size: 16px;
 }
